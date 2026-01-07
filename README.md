@@ -29,7 +29,7 @@ If you use this survey, please cite:
   author = {Jayakumar, Thanmay  and
       Halder, Deepon  and
       Dabre, Raj},
-  year   = 2026},
+  year   = {2026},
   note   = {Survey},
   url    = {https://github.com/ai4bharat/Applications-of-Transliteration-in-NLP}
 }
