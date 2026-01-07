@@ -1,7 +1,7 @@
 # Scripts Through Time: A Survey of the Evolving Role of Transliteration in NLP
 
 <p align="center">
-  <img src="teaser.png" width="800">
+  <img src="figures/teaser.png" width="800">
 </p>
 
 This repository hosts the PDF and supplementary materials for the survey:
