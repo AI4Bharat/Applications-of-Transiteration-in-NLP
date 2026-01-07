@@ -12,7 +12,6 @@ This repository hosts the PDF and supplementary materials for the survey:
 
 
 📄 **Paper**: [`survey.pdf`](survey.pdf)
-![Survey overview](figures/overview.png)
 
 ---
 
