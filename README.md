@@ -29,7 +29,7 @@ Cross-lingual transfer in NLP is often hindered by the ``script barrier'' where 
 If you use this survey, please cite:
 
 ```bibtex
-@misc{jayakumar-etal-2026-scripts,
+@article{jayakumar-etal-2026-scripts,
   title  = {Scripts Through Time: A Survey of the Evolving Role of Transliteration in NLP},
   author = {Jayakumar, Thanmay  and
       Halder, Deepon  and
